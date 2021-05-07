@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Public molecular dynamics data for the P.1 strain in the ACE2-RBD interaction (PDB ID: 6M0J)
 
-You can use the [editor on GitHub](https://github.com/micael-oliveira-ufam/sars-cov-2-simulations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The methodology used was based on the NAMD3 algorithm with GPU acceleration. Explicit solvation of TIP3P water molecules was considered and the system was neutralized by inserting Na + and Cl- at a concentration of 0.15M. The simulations have an estimated duration of 12 ns with the integration time of 2fs. So many simulations containing the 3 (three) mutations (N501Y, E484K and K417T) are available that affected the RBD region of the Spike protein as well as the wild-type structure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link](https://drive.google.com/drive/folders/1FlhRk5uMirH6JmL7Gby_qy3WGgB7dMzp)
 
-### Markdown
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/{{ include.id }}"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micael-oliveira-ufam/sars-cov-2-simulations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/{{ include.id }}"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
