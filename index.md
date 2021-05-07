@@ -4,4 +4,4 @@ The methodology used was based on the NAMD3 algorithm with GPU acceleration. Exp
 
 [Link](https://drive.google.com/drive/folders/1FlhRk5uMirH6JmL7Gby_qy3WGgB7dMzp)
 
-{% include youtubePlayer.html id=page.ogfDezXZYKM %}
+{% include youtubePlayer.html id=https://youtu.be/ogfDezXZYKM %}
