@@ -1,2 +1,1 @@
-# sars-cov-2-simulations
-Molecular dynamics simulations of P.1 variant for SARS-CoV-2
+# Um lugar para aproximar a ciência da população brasileira 
